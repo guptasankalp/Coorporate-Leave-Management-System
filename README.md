@@ -5,3 +5,4 @@ The objective of the project was to automate Leave management. With the help of 
 It Includes Web Tier as UI design, Mid Tier as Java Application and Database Tier. Main principle of creating LMS sytem is according to it's customer’s requirements.
 
 Generating a Smart Web Based Application with 3-tier architecture. 
+Read LMSprototype.pdf
